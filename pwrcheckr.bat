@@ -1,0 +1,1 @@
+cmd/k powercfg /batteryreport /output "C:\battery-report.html
