@@ -1,6 +1,5 @@
 # pwrcheckr
-A simple tool to generate a detailed graph of your battery health
-
+A free and open source tool that generates a detailed battery report for laptops!
 # Preview
 
 ---
